@@ -1,0 +1,23 @@
+{
+  "name": "front-end-store",
+  "version": "1.0.0",
+  "description": "Practice Gird & Flexbox",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tackless/Front-End-Store.git"
+  },
+  "keywords": [
+    "Grid",
+    "Flexbox"
+  ],
+  "author": "Donovan Eliosa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tackless/Front-End-Store/issues"
+  },
+  "homepage": "https://github.com/Tackless/Front-End-Store#readme"
+}
